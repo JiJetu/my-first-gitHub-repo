@@ -5,5 +5,5 @@
 .test{
     color: aqua;
     /* cursor: pointer; */
-    cursor: url("https://www.macmillandictionaryblog.com/wp-content/uploads/2017/07/emoji-810x514.jpg"), auto;
+    cursor: url("https://www.macmillandictionaryblog.com/wp-content/uploads/2017/07/emoji-810x514.jpg"), auto; /*not working for picture size*/
 }
