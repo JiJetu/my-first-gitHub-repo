@@ -7,3 +7,24 @@
     /* cursor: pointer; */
     cursor: url("https://www.macmillandictionaryblog.com/wp-content/uploads/2017/07/emoji-810x514.jpg"), auto; /*not working for picture size*/
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    height: 500px;
+    border: 1px solid rgb(61, 61, 61);
+}
+.box{
+    padding: 20px;
+    background-color: cadetblue;
+    width: 150px;
+    height: 150px;
+}
+
+.box2{
+    background-color: burlywood;
+}
+.box3{
+    background-color: aqua;
+}
